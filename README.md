@@ -1,5 +1,7 @@
 "# react-barebone" 
 
+https://jscomplete.com/learn/1rd-reactful
+
 Setup for barebone react project 
 
 npm init -y
